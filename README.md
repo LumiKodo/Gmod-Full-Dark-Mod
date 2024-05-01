@@ -4,7 +4,7 @@ Q menu has not been touched upon, but I can offer you a [Сoncise version:](http
 
 Q Меню не было затронуто, но могу предложить вам [Лаконичный вариант](https://steamcommunity.com/sharedfiles/filedetails/?id=2788107396&searchtext=Dark+UI+Spawnmenu)
 
-# Installation
+# Installation/Установка
 Place the folder from the archive on the path: __Steam\steamapps\common\GarrysMod\garrysmod\addons__
 
 Папку из архива поместить по пути: __Steam\steamapps\common\GarrysMod\garrysmod\addons__
