@@ -9,8 +9,9 @@ Place the folder from the archive on the path: __Steam\steamapps\common\GarrysMo
 
 Папку из архива поместить по пути: __Steam\steamapps\common\GarrysMod\garrysmod\addons__
 
-![20240501154212_1](https://github.com/LumiKodo/Gmod-Full-Dark-Mod/assets/168643324/534ca8a5-8101-4597-80f4-45fc837bd2b4)
-![20240501154247_1](https://github.com/LumiKodo/Gmod-Full-Dark-Mod/assets/168643324/db499477-b125-4f03-9d6d-aef3314a0580)
-![20240501154308_1](https://github.com/LumiKodo/Gmod-Full-Dark-Mod/assets/168643324/1d7d422d-08fa-41f0-9a8e-8e87a0696401)
-![20240501154325_1](https://github.com/LumiKodo/Gmod-Full-Dark-Mod/assets/168643324/18ddb8fb-0a51-4606-ba36-89d06990f00c)
-![20240501154347_1](https://github.com/LumiKodo/Gmod-Full-Dark-Mod/assets/168643324/c9a738f7-57fa-411e-83fc-cd65cf6c7b06)
+
+![20240711192032_1](https://github.com/LumiKodo/Gmod-Full-Dark-Mod/assets/168643324/bebdd008-5cd3-48b3-a476-99ae95421693)
+![20240711192354_1](https://github.com/LumiKodo/Gmod-Full-Dark-Mod/assets/168643324/f69a3e5a-6faa-4d31-a85e-46696e2f8243)
+![20240711192159_1](https://github.com/LumiKodo/Gmod-Full-Dark-Mod/assets/168643324/0df53a90-3118-4145-93a5-d8c98c20ca66)
+![20240711192230_1](https://github.com/LumiKodo/Gmod-Full-Dark-Mod/assets/168643324/0c75085c-7bbb-450f-b87b-dbd961fde288)
+![20240711192130_1](https://github.com/LumiKodo/Gmod-Full-Dark-Mod/assets/168643324/33b2c0b4-132c-4311-907e-a5500d2b4175)
